@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lena\\source\\repos\\Technico\\Technico\\Technico.csproj": {}
+    "C:\\Users\\Lena\\Desktop\\Technico\\Technico\\Technico.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lena\\source\\repos\\Technico\\Technico\\Technico.csproj": {
+    "C:\\Users\\Lena\\Desktop\\Technico\\Technico\\Technico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lena\\source\\repos\\Technico\\Technico\\Technico.csproj",
+        "projectUniqueName": "C:\\Users\\Lena\\Desktop\\Technico\\Technico\\Technico.csproj",
         "projectName": "Technico",
-        "projectPath": "C:\\Users\\Lena\\source\\repos\\Technico\\Technico\\Technico.csproj",
+        "projectPath": "C:\\Users\\Lena\\Desktop\\Technico\\Technico\\Technico.csproj",
         "packagesPath": "C:\\Users\\Lena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lena\\source\\repos\\Technico\\Technico\\obj\\",
+        "outputPath": "C:\\Users\\Lena\\Desktop\\Technico\\Technico\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
