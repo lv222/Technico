@@ -7,12 +7,24 @@
       "RelativeMoniker": "D:0:0:{0AB53EBE-2725-4AE7-9C45-4B142C8380DC}|Technico\\Technico.csproj|solutionrelative:technico\\models\\propertyrepair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0AB53EBE-2725-4AE7-9C45-4B142C8380DC}|Technico\\Technico.csproj|c:\\users\\lena\\desktop\\technico\\technico\\models\\propertyowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB53EBE-2725-4AE7-9C45-4B142C8380DC}|Technico\\Technico.csproj|solutionrelative:technico\\models\\propertyowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0AB53EBE-2725-4AE7-9C45-4B142C8380DC}|Technico\\Technico.csproj|c:\\users\\lena\\desktop\\technico\\technico\\models\\propertyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AB53EBE-2725-4AE7-9C45-4B142C8380DC}|Technico\\Technico.csproj|solutionrelative:technico\\models\\propertyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AB53EBE-2725-4AE7-9C45-4B142C8380DC}|Technico\\Technico.csproj|c:\\users\\lena\\desktop\\technico\\technico\\models\\propertyowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AB53EBE-2725-4AE7-9C45-4B142C8380DC}|Technico\\Technico.csproj|solutionrelative:technico\\models\\propertyowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AB53EBE-2725-4AE7-9C45-4B142C8380DC}|Technico\\Technico.csproj|c:\\users\\lena\\desktop\\technico\\technico\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB53EBE-2725-4AE7-9C45-4B142C8380DC}|Technico\\Technico.csproj|solutionrelative:technico\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB53EBE-2725-4AE7-9C45-4B142C8380DC}|Technico\\Technico.csproj|c:\\users\\lena\\desktop\\technico\\technico\\technico.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0AB53EBE-2725-4AE7-9C45-4B142C8380DC}|Technico\\Technico.csproj|solutionrelative:technico\\technico.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB53EBE-2725-4AE7-9C45-4B142C8380DC}|Technico\\Technico.csproj|c:\\users\\lena\\desktop\\technico\\technico\\models\\propertyownertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB53EBE-2725-4AE7-9C45-4B142C8380DC}|Technico\\Technico.csproj|solutionrelative:technico\\models\\propertyownertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0AB53EBE-2725-4AE7-9C45-4B142C8380DC}|Technico\\Technico.csproj|c:\\users\\lena\\desktop\\technico\\technico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,8 +38,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lena\\Desktop\\Technico\\Technico\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Technico\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Lena\\Desktop\\Technico\\Technico\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Technico\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:10:45.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Technico",
+              "DocumentMoniker": "C:\\Users\\Lena\\Desktop\\Technico\\Technico\\Technico.csproj",
+              "RelativeDocumentMoniker": "Technico\\Technico.csproj",
+              "ToolTip": "C:\\Users\\Lena\\Desktop\\Technico\\Technico\\Technico.csproj",
+              "RelativeToolTip": "Technico\\Technico.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-31T11:05:25.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PropertyOwnerType.cs",
+              "DocumentMoniker": "C:\\Users\\Lena\\Desktop\\Technico\\Technico\\Models\\PropertyOwnerType.cs",
+              "RelativeDocumentMoniker": "Technico\\Models\\PropertyOwnerType.cs",
+              "ToolTip": "C:\\Users\\Lena\\Desktop\\Technico\\Technico\\Models\\PropertyOwnerType.cs",
+              "RelativeToolTip": "Technico\\Models\\PropertyOwnerType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:03:36.13Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,14 +87,14 @@
               "RelativeDocumentMoniker": "Technico\\Models\\PropertyRepair.cs",
               "ToolTip": "C:\\Users\\Lena\\Desktop\\Technico\\Technico\\Models\\PropertyRepair.cs",
               "RelativeToolTip": "Technico\\Models\\PropertyRepair.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-31T10:51:47.566Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PropertyItem.cs",
               "DocumentMoniker": "C:\\Users\\Lena\\Desktop\\Technico\\Technico\\Models\\PropertyItem.cs",
               "RelativeDocumentMoniker": "Technico\\Models\\PropertyItem.cs",
@@ -56,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "PropertyOwner.cs",
               "DocumentMoniker": "C:\\Users\\Lena\\Desktop\\Technico\\Technico\\Models\\PropertyOwner.cs",
               "RelativeDocumentMoniker": "Technico\\Models\\PropertyOwner.cs",
@@ -69,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lena\\Desktop\\Technico\\Technico\\Program.cs",
               "RelativeDocumentMoniker": "Technico\\Program.cs",
@@ -77,8 +128,7 @@
               "RelativeToolTip": "Technico\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T10:32:07.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T10:32:07.699Z"
             }
           ]
         }
